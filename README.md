@@ -15,5 +15,5 @@ Please answer the following three questions as three seperate paragraphs:
 * How do we benefit from using it?
 * Why did we put it in the corresponding ring?
 
-## Backend Freiburg
-
+## Virtual Identity location radars
+* [Backendend Freiburg](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtualidentityag%2Ftechradar%2Fmaster%2FBackend%2520Technology%2520Radar%25202020-01.csv)
