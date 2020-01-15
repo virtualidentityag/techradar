@@ -9,3 +9,11 @@ Based on the Technology Radar from ToughtWorks.
 ## How to
 1. add a csv file with the list of technolgoies to this repository
 2. link to this csv file in the technology radar service from ThoughtWorks
+
+Please answer the following three questions as three seperate paragraphs:
+* What is it?
+* How do we benefit from using it?
+* Why did we put it in the corresponding ring?
+
+## Backend Freiburg
+
