@@ -1,6 +1,6 @@
 name,quadrant,ring,isNew,description
-Puppeteer,languages-and-frameworks,Adopt,TRUE,"<p>dummy</p>"
-GraphQL,languages-and-frameworks,Adopt,TRUE,"<p>dummy</p>"
+Puppeteer,languages-and-frameworks,Adopt,TRUE,"<p><strong>Puppeteer</strong> provides an API to control a (headless) Chrome.</p><p>Developers are able to generate screenshots and PDFs of pages, crawl their contents and automate keyboard input, form submission and more.</p><p>Puppeteer can help to automate UI testing and offers some nice-to-have features, which can ease the daily life of developers.</p><p>We use Puppeteer in (at least) two website projects for the processing and rendering of static pages.</p>"
+GraphQL,languages-and-frameworks,Adopt,TRUE,"<p><strong>GraphQL</strong> is a language for querying databases from client-side applications and offers an alternative to the usage of RESTful APIs.</p><p>Developers are able to make precise data requests and obtain no more and no less, but exactly what they need.</p><p>This reduces network traffic and makes the developer's life easier, since he knows what data he can expect and work with.</p><p>We could already evaluate GraphQL in a strategic project and decided that we can profit from it.</p>"
 Node.js,languages-and-frameworks,Adopt,TRUE,"<p>dummy</p>"
 Biotope Quality Gate,Tools,Adopt,TRUE,"<p>dummy</p>"
 Test Driven Development (TDD),Techniques,Adopt,TRUE,"<p>dummy</p>"
