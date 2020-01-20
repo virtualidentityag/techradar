@@ -1,0 +1,11 @@
+name,quadrant,ring,isNew,description
+TDD,Techniques,Adopt,TRUE,"<p>dummy</p>"
+Functional Programming,Techniques,Adopt,TRUE,"<p>dummy</p>"
+Mobile First,Techniques,Adopt,TRUE,"<p><strong>Mobile First</strong> is a Method/Concept to develop websites that are first and foremost optimized for the mobile web. We benefit from using <strong>Mobile First</strong>, because the use of websites shifts more and more towards mobile and we want to deliver an optimal experience for the user. Here at VI we are on the edge of adopting <strong>Mobile First</strong>, but to actually adopt it, in our opinion we need to embrace it in all our projects.</p>"
+AWS,Platforms,Adopt,TRUE,"<p>dummy</p>"
+Dev Tools,Tools,Adopt,TRUE,"<p>dummy</p>"
+Invision/Zeplin,Tools,Adopt,TRUE,"<p>dummy</p>"
+Atomic Design,Techniques,Trial,TRUE,"<p>dummy</p>"
+Web Animations,Techniques,Trial,TRUE,"<p><strong>Web Animations</strong> are an upcoming trend to enhance the user experience, by adding movement to web components. We benefit from using <strong>Web Animations</strong>, because we want to deliver a new visual experience for our clients websites and their users to e.g. seperate from competetors. At VI we use <strong>Web Animations</strong> in some projects already, but to grasp the whole potential and scope of the topic, we put it into the trial circle."
+Structured Data,Techniques,Assess,TRUE,"<p>dummy</p>"
+Pa11y,Tools,Assess,TRUE,"<p>dummy</p>"
