@@ -17,4 +17,4 @@ Please answer the following three questions as three seperate paragraphs:
 
 ## Virtual Identity location radars
 * [Backend Freiburg](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtualidentityag%2Ftechradar%2Fmaster%2FBackend%2520Technology%2520Radar%25202020-01.csv)
-* [Frontend Freiburg](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtualidentityag%2Ftechradar%2Fmaster%2FFrontend%2520Technology%2520Radar%25202020-01.csv)
+* [Frontend](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtualidentityag%2Ftechradar%2Fmaster%2FFrontend%2520Technology%2520Radar%25202020-01.csv)
