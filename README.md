@@ -16,4 +16,5 @@ Please answer the following three questions for each entry as three seperate par
 * Why did we put it in the corresponding ring?
 
 ## Virtual Identity technology radars
+* [2020-02](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtualidentityag%2Ftechradar%2Fmaster%2FVI%2520Technology%2520Radar%25202020-02.csv)
 * [2020-01](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtualidentityag%2Ftechradar%2Fmaster%2FVI%2520Technology%2520Radar%25202020-01.csv)
