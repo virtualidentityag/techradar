@@ -18,10 +18,10 @@ Please answer the following three questions for each entry as three separate par
 ## Virtual Identity technology radars
 
 ### 2021
-* [2021-04]{:target="_blank"}(https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtualidentityag%2Ftechradar%2Fmaster%2FVI%2520Technology%2520Radar%25202021-04.csv)
-* [2021-01](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtualidentityag%2Ftechradar%2Fmaster%2FVI%2520Technology%2520Radar%25202021-01.csv){:target="_blank"}
+* [2021-04](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtualidentityag%2Ftechradar%2Fmaster%2FVI%2520Technology%2520Radar%25202021-04.csv)
+* [2021-01](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtualidentityag%2Ftechradar%2Fmaster%2FVI%2520Technology%2520Radar%25202021-01.csv)
 
 ### 2020
-* [2020-08](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtualidentityag%2Ftechradar%2Fmaster%2FVI%2520Technology%2520Radar%25202020-08.csv){:target="_blank"}
-* [2020-02](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtualidentityag%2Ftechradar%2Fmaster%2FVI%2520Technology%2520Radar%25202020-02.csv){:target="_blank"}
-* [2020-01](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtualidentityag%2Ftechradar%2Fmaster%2FVI%2520Technology%2520Radar%25202020-01.csv){:target="_blank"}
+* [2020-08](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtualidentityag%2Ftechradar%2Fmaster%2FVI%2520Technology%2520Radar%25202020-08.csv)
+* [2020-02](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtualidentityag%2Ftechradar%2Fmaster%2FVI%2520Technology%2520Radar%25202020-02.csv)
+* [2020-01](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtualidentityag%2Ftechradar%2Fmaster%2FVI%2520Technology%2520Radar%25202020-01.csv)
